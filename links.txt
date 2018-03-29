@@ -12,8 +12,19 @@ https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
    do not have similar types in training set;  also, there are issues upon scaling the images)
 https://www.kaggle.com/bonlime/train-test-image-mosaic
 https://www.kaggle.com/mpware/stage1-eda-microscope-image-types-clustering
-https://www.kaggle.com/jackvial/exploratory-data-analysis-dsb-2018    <- scaling issues 
-https://www.kaggle.com/jerrythomas/exploratory-analysis
+https://www.kaggle.com/jackvial/exploratory-data-analysis-dsb-2018    <- scaling issues; some images have few masks, others have many
+ "There is a large range of image dimensions in the dataset and not all of the images are square. 
+ The smallest image was 256x256 and the largest was 1040x1388 pixels. The smallest nucleus was only a few pixels in size 
+ and was found in one of the larger images (1000x1000), resizing this image caused the tiny nucleus to disappear 
+ so resizing images should be approached with great caution. The size of nuclei vary a lot throughout the images 
+ in the training set and is likely to make detection more challenging."
+https://www.kaggle.com/jerrythomas/exploratory-analysis    <- rotating & clipping; masks with holes
+
+
+? Data augmentation
+https://www.kaggle.com/c/data-science-bowl-2018/discussion/52845
+https://www.kaggle.com/arpandhatt/data-augmenter    <- flipping images
+https://www.kaggle.com/shenmbsw/data-augmentation-and-tensorflow-u-net   <- random rotation & cropping
 
 
 
