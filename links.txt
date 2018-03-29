@@ -8,11 +8,21 @@ https://www.kaggle.com/kmader/nuclei-overview-to-submission
 https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
 
 
+?EDA:  main theme: presence of multiple types of images (image modality) & image sizes (some types in the test set 
+   do not have similar types in training set;  also, there are issues upon scaling the images)
+https://www.kaggle.com/bonlime/train-test-image-mosaic
+https://www.kaggle.com/mpware/stage1-eda-microscope-image-types-clustering
+https://www.kaggle.com/jackvial/exploratory-data-analysis-dsb-2018    <- scaling issues 
+https://www.kaggle.com/jerrythomas/exploratory-analysis
+
+
 
 ? SUBMISSION PROCESS :
-https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies/notebook  <- see section "Convert each labeled object to Run Line Encoding - Finally, we need to encode each label_mask into a "run line encoded" string. Basically, we walk through the array, and when we find a pixel that is part of the mask, we index it and count how many subsequent pixels are also part of the mask. We repeat this each time we see new pixel start point."
+https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies/notebook  <- see section "Convert 
+  each labeled object to Run Line Encoding - Finally, we need to encode each label_mask into a "run line encoded" string. 
+  Basically, we walk through the array, and when we find a pixel that is part of the mask, we index it and count 
+  how many subsequent pixels are also part of the mask. We repeat this each time we see new pixel start point."
 https://www.kaggle.com/stkbailey/step-by-step-explanation-of-scoring-metric
-
 
 
 
