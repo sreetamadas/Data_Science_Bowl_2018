@@ -8,11 +8,18 @@ https://www.kaggle.com/kmader/nuclei-overview-to-submission
 https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
 
 
+
+? SUBMISSION PROCESS :
+https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies/notebook  <- see section "Convert each labeled object to Run Line Encoding - Finally, we need to encode each label_mask into a "run line encoded" string. Basically, we walk through the array, and when we find a pixel that is part of the mask, we index it and count how many subsequent pixels are also part of the mask. We repeat this each time we see new pixel start point."
+https://www.kaggle.com/stkbailey/step-by-step-explanation-of-scoring-metric
+
+
+
+
 ? DISCUSSION
 1. Why is it difficult to achieve Allen's results of LB 0.634
 https://www.kaggle.com/c/data-science-bowl-2018/discussion/52766     <- pointers to what all can be tried (pre & post-processing steps)
 2.  https://www.kaggle.com/c/data-science-bowl-2018/discussion/47770  <- data quality issues , masks with holes
-
 
 
 
