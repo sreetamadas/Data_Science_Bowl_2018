@@ -51,8 +51,9 @@ https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cn
 https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
 
-? U-net
+? U-net / ultrasound nerve segmentation keras unit
 https://github.com/jocicmarko/ultrasound-nerve-segmentation
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 
 ## see cnn videos from deeplearning.ai
