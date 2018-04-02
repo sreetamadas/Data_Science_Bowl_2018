@@ -44,9 +44,14 @@ https://www.kaggle.com/c/data-science-bowl-2018/discussion/52766     <- pointers
 
 
 
+################################################################
 ? tutorials for segmentation
 http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
 https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
+https://github.com/jocicmarko/ultrasound-nerve-segmentation
+
+
+? U-net
 https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
 
