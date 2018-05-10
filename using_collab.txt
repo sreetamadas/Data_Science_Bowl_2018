@@ -1,0 +1,13 @@
+## colab
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb&scrollTo=c2W5A2px3doP
+
+
+The below link explains how to upload data to colab:
+https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb&scrollTo=7taylj9wpsA2
+
+###################################
+open google chrome
+type colab, open the page
+! pip install keras
+go to "runtime menu", select "change runtime type", then choose "GPU" in hardware
+################################################################################################################
