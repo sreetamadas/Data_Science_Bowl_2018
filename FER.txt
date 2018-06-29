@@ -1,1 +1,9 @@
 https://github.com/fitrialif/facial-expression-recognition-keras-FER2013
+
+
+
+https://blogs.microsoft.com/ai/happy-sad-angry-this-microsoft-tool-recognizes-emotions-in-pictures/
+
+https://github.com/JostineHo/mememoji
+
+https://www.kdnuggets.com/2018/06/diy-deep-learning-projects.html
