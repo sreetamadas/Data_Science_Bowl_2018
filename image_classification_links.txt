@@ -1,0 +1,25 @@
+GOOGLE:
+
+code for image classification with cnn:
+https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8
+https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
+
+
+https://towardsdatascience.com/image-classification-using-convolutional-neural-networks-on-mnist-data-set-406db0c265ed
+https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430
+
+
+https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+
+
+
+kaggle image classification:
+https://medium.com/neuralspace/kaggle-1-winning-approach-for-image-classification-challenge-9c1188157a86
+
+
+how to do image classification with cnn:
+https://medium.com/intro-to-artificial-intelligence/simple-image-classification-using-deep-learning-deep-learning-series-2-5e5b89e97926
+
+
+how to do image classification with cnn analytics vidhya:
