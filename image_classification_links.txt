@@ -23,3 +23,10 @@ https://medium.com/intro-to-artificial-intelligence/simple-image-classification-
 
 
 how to do image classification with cnn analytics vidhya:
+
+
+BLOG:
+https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef
+
+
+
